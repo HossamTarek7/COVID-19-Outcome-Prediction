@@ -21,9 +21,9 @@ This project aims to develop and compare different classifiers to predict the re
 2. **Classifier Design:**
     - K-Nearest Neighbors
     - Logistic Regression
-    - Naïve Bayes (to be completed by the end of week 11)
+    - Naïve Bayes  
     - Decision Trees
-    - Support Vector Machines (to be completed by the end of week 14)
+    - Support Vector Machines  
 
 3. **Optimal Hyperparameters:**
     - For each classifier, an effort will be made to find the optimal hyperparameters to enhance model performance.
